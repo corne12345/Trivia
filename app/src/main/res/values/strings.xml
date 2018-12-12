@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Trivia</string>
+
+    <string name="question_australia">What is the capital of Australia?</string>
+    <string name="australia_answer_a">Sydney</string>
+    <string name="australia_answer_b">Melbourne</string>
+    <string name="australia_answer_c"> Canberra</string>
+    <string name="australia_answer_d"> Perth</string>
+    <string name="australia_correct"> Canberra</string>
+
+    <string name="question_oceans"> What is the largest ocean in the world?</string>
+    <string name="oceans_answer_a">Atlantic Ocean </string>
+    <string name="ocean_answer_b">Pacific Ocean</string>
+    <string name="ocean_answer_c"> Indian Ocean</string>
+    <string name="ocean_answer_d"> Antartic Ocean</string>
+    <string name="ocean_correct">Pacific Ocean</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
 </resources>
